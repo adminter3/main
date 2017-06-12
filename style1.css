@@ -1,5 +1,20 @@
-div {
-    background-color: #ff0000;
-    height: 150px;
-    width: 150px;
+div#wrapper{
+    background-color: darkturquoise;
+    width: 510px;
+    height: 510px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.content {    
+    border: 5px solid #000000;
+    float: left;
+    margin: 30px;    
+}
+
+div#first{
+    height: auto;
+    width: auto;
+}
+.caption{
+    display: block;
 }
