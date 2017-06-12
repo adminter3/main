@@ -7,8 +7,8 @@ div#wrapper{
 }
 div.content {    
     border: 5px solid #000000;
-    float: left;
-    margin: 30px;    
+    float: inherit;
+    margin: 50px;    
 }
 
 div#first{
